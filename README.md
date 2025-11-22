@@ -31,7 +31,7 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ## Strukture podataka
 ### Strukture
 ### Strukture Podataka
-### Od tablice do Struktura
+### [Od tablice do Struktura](md_fileovi/402_od_tablice_do_struktura.md)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⣀⠤⠤⠔⡁⢂⠂⠕⠒⢤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
