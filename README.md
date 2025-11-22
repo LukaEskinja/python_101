@@ -20,17 +20,17 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ## Rad s tekstom
 ### Tekst putanje datoteke
 ### Tekst intro
-### Tekst python
-### Tekstualne datoteke
+### [Tekst python](202_tekst_python.md)
+### [Tekstualne datoteke](203_tekstualne_datoteke.md)
 
 ## Funkcije
-### Definicija funkcija
-### Definicija funkcija 2
-### Valstite Funkcije
+### [Definicija funkcija](300_definicija_funkcija.md)
+### [Definicija funkcija 2](301_def_funkcija2.md)
+### [Valstite Funkcije](301_vlastite_funkcije.md)
 
 ## Strukture podataka
-### Strukture
-### Strukture Podataka
+### [Strukture](400_strukture.md)
+### [Strukture Podataka](401_strukture_podataka.md)
 ### [Od tablice do Struktura](md_fileovi/402_od_tablice_do_struktura.md)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
