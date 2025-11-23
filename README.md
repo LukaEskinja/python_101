@@ -26,7 +26,7 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ## Funkcije
 ### [Definicija funkcija](md_fileovi/300_definicija_funkcija.md)
 ### [Definicija funkcija 2](md_fileovi/301_def_funkcija2.md)
-### [Valstite Funkcije](md_fileovi/301_vlastite_funkcije.md)
+### [Vlastite Funkcije](md_fileovi/301_vlastite_funkcije.md)
 
 ## Strukture podataka
 ### [Strukture](md_fileovi/400_strukture.md)
