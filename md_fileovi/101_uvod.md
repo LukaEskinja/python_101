@@ -208,7 +208,7 @@ koncepata i eksperimentaciju s mogućnostima. IDLE se ponaša kao i većina
 aplikacija s grafičkim sučeljem, odnosno moguće ju je pokrenuti kroz
 *Start menu* ili ekvivalente u drugim operativnim sustavima.
 
-![Izvršavanje Python kôda putem sučelja IDLE](/Zadatak_LaTeX/images/idle.png){#fig:idle
+![Izvršavanje Python kôda putem sučelja IDLE](python_101/images/idle.png){#fig:idle
 width="\\textwidth"}
 
 Kada pokrenemo IDLE, dočekati će nas glavno sučelje ovog programa koje
