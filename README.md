@@ -11,6 +11,7 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ### [Podaci](md_fileovi/103_podaci.md)
 ### [Moduli](md_fileovi/104_moduli.md)
 ### [Kontrola toka](md_fileovi/105_kontrola_toka.md)
+### [Radnje](md_fileovi/102.md)
 
 ## Primjeri programa
 ### [Kornjaca](md_fileovi/106_ex_kornjaca.md)
