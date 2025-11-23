@@ -161,7 +161,7 @@ sučelja za instalaciju *desktop* aplikacija. Na slici
 [1](#fig:wininstall){reference-type="ref" reference="fig:wininstall"}
 vidimo kako izgleda pokretanje instalacije novijih verzija Pythona.
 
-![Instalacija Pythona na Windows OS-u](/Zadatak_LaTeX/images/windows_install.png)
+![Instalacija Pythona na Windows OS-u](/python_101/images/windows_install.png)
 Dok klik na \"Install Now\" obavlja većinu posla, ipak je korisno
 primijetiti neke detalje i uključiti dodatne mogućnosti. Python će se po
 zadanim postavkama instalirati u korisnički direktorij (na slici je
