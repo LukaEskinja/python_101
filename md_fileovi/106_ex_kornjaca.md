@@ -9,7 +9,7 @@ prikazuje kao strelica, a vrlo je lako s njom početi eksperimentirati i
 interaktivno.
 
 <figure id="fig:turtle_idle" data-latex-placement="ht">
-<img src="../images/turtle_idle" />
+<img src="../images/turtle_idle.png" />
 <figcaption>Interaktivan rad s kornjačom</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ skriptu!
 Najjednostavnije rješenje ovog problema je kako slijedi:
 
 <figure id="fig:turtle_square" data-latex-placement="H">
-<img src="../images/turtle_square" style="width:50.0%" />
+<img src="../images/turtle_square.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i kvadrat 1</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ napraviti turn_angle = 120 \# stupanj pod kojim se skreće \# ...
 </div>
 
 <figure id="fig:turtle_triangle" data-latex-placement="H">
-<img src="../images/turtle_triangle" style="width:50.0%" />
+<img src="../images/turtle_triangle.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i trokut</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ napraviti turn_angle = 60 \# stupanj pod kojim se skreće \# ...
 </div>
 
 <figure id="fig:turtle_heksagon" data-latex-placement="H">
-<img src="../images/turtle_hex" style="width:50.0%" />
+<img src="../images/turtle_hex.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i heksagon</figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ data-reference="fig:turtle_big_poly">5</a> vidimo poligon koji je
 pobjegao s ekrana.
 
 <figure id="fig:turtle_big_poly" data-latex-placement="ht">
-<img src="../images/turtle_big_poly" style="width:75.0%" />
+<img src="../images/turtle_big_poly.png" style="width:75.0%" />
 <figcaption>Interaktivan rad s kornjačom</figcaption>
 </figure>
 
@@ -163,7 +163,7 @@ kliknemo na "start", dobiti ćemo sliku
 data-reference="fig:turtle_examples">6</a>.
 
 <figure id="fig:turtle_examples" data-latex-placement="ht">
-<img src="../images/turtle_examples" />
+<img src="../images/turtle_examples.png" />
 <figcaption>Napredni primjeri mogućnosti s kornjačom</figcaption>
 </figure>
 
@@ -171,3 +171,4 @@ Ipak, ovi primjeri su uglavnom napredni i koriste mnoge koncepte koje
 još nismo objasnili pa u njih nećemo sada dublje ulaziti. Ovdje su
 spomenuti jer prikazuju mogućnost programiranja radi kreativnog procesa
 radije no pragmatične vrijednosti programa.
+
