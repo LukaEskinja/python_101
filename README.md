@@ -3,7 +3,7 @@ Konverzija .tex > .md > .html > i uređivanje koda
                                                                                              
 ## Sadržaj
 
-### [Uvod](md.fileovi/101_uvod.md)
+### [Uvod](md_fileovi/101_uvod.md)
 
 ## Osnovni pojmovi
 ### Clean
