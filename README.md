@@ -8,7 +8,7 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ## Osnovni pojmovi
 ### [Clean](md_fileovi/101_uvod.md)
 ### [Radnje](md_fileovi/102_radnje.md)
-### Podatci
+### [Podaci](md_fileovi/103_podaci.md)
 ### Moduli
 ### Kontrola toka
 
