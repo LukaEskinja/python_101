@@ -13,7 +13,7 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ### [Kontrola toka](md_fileovi/105_kontrola_toka.md)
 
 ## Primjeri programa
-### Kornjaca
+### [Kornjaca](md_fileovi/106_ex_kornjaca.md)
 ### Kalkulator
 ### Pogodi Broj
 
