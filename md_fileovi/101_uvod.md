@@ -162,6 +162,7 @@ sučelja za instalaciju *desktop* aplikacija. Na slici
 vidimo kako izgleda pokretanje instalacije novijih verzija Pythona.
 
 ![Instalacija Pythona na Windows OS-u](../images/windows_install.png)
+
 Dok klik na \"Install Now\" obavlja većinu posla, ipak je korisno
 primijetiti neke detalje i uključiti dodatne mogućnosti. Python će se po
 zadanim postavkama instalirati u korisnički direktorij (na slici je
@@ -208,7 +209,7 @@ koncepata i eksperimentaciju s mogućnostima. IDLE se ponaša kao i većina
 aplikacija s grafičkim sučeljem, odnosno moguće ju je pokrenuti kroz
 *Start menu* ili ekvivalente u drugim operativnim sustavima.
 
-![Izvršavanje Python kôda putem sučelja IDLE](python_101/images/idle.png){#fig:idle
+![Izvršavanje Python kôda putem sučelja IDLE](../images/idle.png){#fig:idle
 width="\\textwidth"}
 
 Kada pokrenemo IDLE, dočekati će nas glavno sučelje ovog programa koje
@@ -233,7 +234,7 @@ je vidljivo na slici [3](#fig:idle_text){reference-type="ref"
 reference="fig:idle_text"}. Datoteka sadrži tipičan program za prvi
 susret s programiranjem koji ćemo kasnije podrobnije analizirati.
 
-![IDLE i pisanje tekstualnih datoteka](/Zadatak_LaTeX/images/idle_text.png){#fig:idle_text
+![IDLE i pisanje tekstualnih datoteka](../images/idle_text.png){#fig:idle_text
 width="\\textwidth"}
 
 Novi prozor koji nam se otvorio je jednostavan program za pisanje
@@ -247,7 +248,7 @@ asketske prirode pa neke verzije ne paze na to umjesto nas. Rezultat ove
 radnje je vidljiv na slici [4](#fig:idle_text_run){reference-type="ref"
 reference="fig:idle_text_run"}.
 
-![IDLE i rezultat izvršavanja programa](/Zadatak_LaTeX/images/idle_text_run.png){#fig:idle_text_run width="\\textwidth"}
+![IDLE i rezultat izvršavanja programa](../images/idle_text_run.png){#fig:idle_text_run width="\\textwidth"}
 
 Upravo smo izvršili računalni program! Ovu datoteku nismo morali
 pokretati kroz IDLE, mogli smo je i jednostavno pokrenuti direktno iz
