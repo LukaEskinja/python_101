@@ -9,8 +9,8 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ### [Clean](md_fileovi/101_uvod.md)
 ### [Radnje](md_fileovi/102_radnje.md)
 ### [Podaci](md_fileovi/103_podaci.md)
-### [Moduli](md.fileovi/104_moduli.md)
-### [Kontrola toka](md.fileovi/105_kontrola_toka.md)
+### [Moduli](md_fileovi/104_moduli.md)
+### [Kontrola toka](md_fileovi/105_kontrola_toka.md)
 
 ## Primjeri programa
 ### Kornjaca
