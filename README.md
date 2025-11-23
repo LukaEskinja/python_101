@@ -14,13 +14,13 @@ Konverzija .tex > .md > .html > i uređivanje koda
 
 ## Primjeri programa
 ### [Kornjaca](md_fileovi/106_ex_kornjaca.md)
-### Kalkulator
-### Pogodi Broj
+### [Kalkulator](md_fileovi/107_ex_kalkulator_proc.md)
+### [Pogodi Broj](md_fileovi/106_ex_pogodi_broj_proc.md)
 
 ## Rad s tekstom
-### Tekst putanje datoteke
-### Tekst intro
-### [Tekst python](md_fileovi/202_tekst_python.md)
+### [Tekst putanje datoteke](md_fileovi/200_tekst_putanje_datoteke.md)
+### [Tekst intro](md_fileovi/106_ex_kornjaca.md)
+### [Tekst python](md_fileovi/201_text_intro.md)
 ### [Tekstualne datoteke](md_fileovi/203_tekstualne_datoteke.md)
 
 ## Funkcije
