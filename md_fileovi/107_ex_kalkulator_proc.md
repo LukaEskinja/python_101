@@ -212,7 +212,7 @@ Korištenje programa sada izgleda ovako:
 
 <a href="#listing:calc_while" data-reference-type="ref"
 data-reference="listing:calc_while">[listing:calc_while]</a> ———-
-
+```
 Odaberi operator (+,-) ili unesi "i" za izlaz: + Unesi prvi broj: 3.14
 Unesi drugi broj: 25
 
@@ -243,6 +243,7 @@ GREŠKA: Oblik broja nije prepoznat! Pokušaj ponovo.
 Odaberi operator (+,-) ili unesi "i" za izlaz: I
 
 ———- Program je završio s radom, pritisni \<enter\> za kraj.
+```
 
 </div>
 
@@ -266,3 +267,4 @@ ovaj problem kad budemo naoružani znanjem kako kôd generalizirati i
 apstrahirati.
 
 [^1]: Koju vrstu vrijednosti vraća funkcija `input`?
+
