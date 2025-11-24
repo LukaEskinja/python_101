@@ -31,13 +31,13 @@ podatke. Najčešća struktura s kojom se srećemo i koja nije striktno
 vezana za računala je tablica. Pogledajmo pojednostavljen primjer
 bibliografskih metapodataka u tabličnom obliku.
 
-``` {#table:primjer}
+{#table:primjer}
 | Naslov            | Autor                         | Godina | Izdavač    | ISBN         |
 |-------------------|-------------------------------|--------|------------|--------------|
 | Good Omens        | Terry Pratchett & Neil Gaiman | 1990   | Gollancz   | 0-575-04800-X|
 | Interesting Times | Terry Pratchett               | 1994   | Gollancz   | 0-575-05800-5|
 | Neverwhere        | Neil Gaiman                   | 1996   | BBC Books  | 0-7472-6668-9|
-```
+
 
 Započnimo jednostavnim pitanjem: \"Kako postaviti tablične podatke u
 oblik iskoristiv za programiranje?\".
