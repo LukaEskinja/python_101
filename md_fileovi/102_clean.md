@@ -1,4 +1,4 @@
-3.x# Radnje: Izjave, izrazi, operatori, funkcije i metode
+# Radnje: Izjave, izrazi, operatori, funkcije i metode
 
 Osnovna namjena programiranje je reći računalu što da *radi*. Ono što
 nam je posebno zanimljivo u definiciji sastavnih dijelova programskog
