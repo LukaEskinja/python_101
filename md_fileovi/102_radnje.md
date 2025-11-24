@@ -215,21 +215,17 @@ idućem poglavlju. Pregled je vidljiv u tablici
 [1](#tab:operatori-aritmetika){reference-type="ref"
 reference="tab:operatori-aritmetika"}.
 
-``` center
-``` {#tab:operatori-aritmetika}
-  **operator**        **operacija**                     **primjer**   **rezultat**
-  ------------------- --------------------------------- ------------- --------------
-  $\boldsymbol{+}$    zbrajanje                         $7\:+\:2$     9
-  $\boldsymbol{-}$    oduzimanje                        $7\:-\:2$     5
-  $\boldsymbol{*}$    množenje                          $7\:*\:2$     14
-  $\boldsymbol{**}$   potenciranje                      $7\:**\:2$    49
-  $\boldsymbol{/}$    dijeljenje                        $7\:/\:2$     3.5
-  $\boldsymbol{//}$   cjelobrojno dijeljenje            $7\://\:2$    2
-  $\boldsymbol{\%}$   ostatak cjelobrojnog dijeljenja   $7\:\%\:2$    1
 
-  : Aritmetički operatori
-```
-```
+| operator | operacija                     | primjer   | rezultat |
+|----------|--------------------------------|----------|---------|
+| **+**    | zbrajanje                      | 7 + 2    | 9       |
+| **-**    | oduzimanje                     | 7 - 2    | 5       |
+| **\***   | množenje                       | 7 * 2    | 14      |
+| **\*\*** | potenciranje                   | 7 ** 2   | 49      |
+| **/**    | dijeljenje                     | 7 / 2    | 3.5     |
+| **//**   | cjelobrojno dijeljenje         | 7 // 2   | 2       |
+| **%**    | ostatak cjelobrojnog dijeljenja| 7 % 2    | 1       |
+
 
 Zanimljivost kod aritmetičkih operatora je da se svi mogu spojiti s
 operatorom za pridruživanje vrijednosti varijabli (tj. `=`{.python})
