@@ -6,7 +6,6 @@ Konverzija .tex > .md > .html > i uređivanje koda
 ### [Uvod](md_fileovi/101_uvod.md)
 
 ## Osnovni pojmovi
-### [Clean](md_fileovi/102_clean.md)
 ### [Radnje](md_fileovi/102_radnje.md)
 ### [Podaci](md_fileovi/103_podaci.md)
 ### [Moduli](md_fileovi/104_moduli.md)
