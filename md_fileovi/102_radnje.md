@@ -266,20 +266,17 @@ usporedbu možemo vidjeti na tablici
 [2](#tab:operatori-usporedba){reference-type="ref"
 reference="tab:operatori-usporedba"}.
 
-``` center
-``` {#tab:operatori-usporedba}
-  **operator**          **operacija**       **primjer**    **rezultat**
-  --------------------- ------------------- -------------- --------------
-  $\boldsymbol{==}$     jednako             $7\:==\:2$     False
-  $\boldsymbol{!\!=}$   nejednako           $7\:!\!=\:2$   True
-  $\boldsymbol{<}$      manje               $7\:<\:2$      True
-  $\boldsymbol{<\!=}$   manje ili jednako   $7\:<\!=\:2$   True
-  $\boldsymbol{>}$      veće                $7\:>\:2$      False
-  $\boldsymbol{>\!=}$   veće ili jednako    $7\:>\!=\:2$   False
+| operator | operacija           | primjer   | rezultat |
+|----------|-------------------|----------|---------|
+| **==**   | jednako            | 7 == 2   | False   |
+| **!=**   | nejednako          | 7 != 2   | True    |
+| **<**    | manje              | 7 < 2    | False   |
+| **<=**   | manje ili jednako  | 7 <= 2   | False   |
+| **>**    | veće               | 7 > 2    | True    |
+| **>=**   | veće ili jednako   | 7 >= 2   | True    |
 
-  : Operatori za usporedbu
-```
-```
+*Operatori za usporedbu*
+
 
 ### Logički operatori
 
@@ -292,17 +289,13 @@ reference="tab:operatori-bool"}. Ovi operatori zajedno s operatorima za
 usporedbu imaju posebno značajnu ulogu kod kondicionala, odnosno *if
 \... then \... else* konstrukcija.
 
-``` center
-``` {#tab:operatori-bool}
-  **operator**   **operacija**       **primjer**            **rezultat**
-  -------------- ------------------- ---------------------- --------------
-  **and**        logičko i           $7 > 2$ and $7 < 10$   True
-  **or**         logičko ili         $7 < 2$ or $7 < 10$    True
-  **not**        logička inverzija   not $7\:>\:2$          False
+| operator | operacija           | primjer               | rezultat |
+|----------|-------------------|---------------------|---------|
+| **and**  | logičko i          | 7 > 2 and 7 < 10    | True    |
+| **or**   | logičko ili        | 7 < 2 or 7 < 10     | True    |
+| **not**  | logička inverzija  | not 7 > 2           | False   |
 
-  : Logički operatori
-```
-```
+*Logički operatori*
 
 ### Operatori za provjeru članstva
 
@@ -314,16 +307,12 @@ tekstom. Operatori za provjeru članstva su prikazani na tablici
 [4](#tab:operatori-clanstvo){reference-type="ref"
 reference="tab:operatori-clanstvo"}.
 
-``` center
-``` {#tab:operatori-clanstvo}
-  **operator**   **operacija**   **primjer**            **rezultat**
-  -------------- --------------- ---------------------- --------------
-  **in**         sadrži          \"a\" in \"abc\"       True
-  **not in**     ne sadrži       \"a\" not in \"abc\"   False
+| operator   | operacija      | primjer            | rezultat |
+|------------|---------------|------------------|---------|
+| **in**     | sadrži         | "a" in "abc"      | True    |
+| **not in** | ne sadrži      | "a" not in "abc"  | False   |
 
-  : Operatori za provjeru članstva
-```
-```
+*Operatori za provjeru članstva*
 
 ### Operatori za provjeru identiteta
 
@@ -336,16 +325,12 @@ provjerava da li se dvije vrijednosti mogu smatrati ekvivalentnima
 odnosno "istima", a provjera identiteta provjerava da li se radi o istoj
 vrijednosti u memoriji računala.
 
-``` center
-``` {#tab:operatori-identitet}
-  **operator**   **operacija**         **primjer**     **rezultat**
-  -------------- --------------------- --------------- --------------
-  **is**         je isti objekt        True is 1       False
-  **is not**     ne nije isti objekt   True is not 1   True
+| operator   | operacija            | primjer       | rezultat |
+|------------|--------------------|--------------|---------|
+| **is**     | je isti objekt       | True is 1    | False   |
+| **is not** | ne nije isti objekt  | True is not 1| True    |
 
-  : Operatori za provjeru identiteta
-```
-```
+*Operatori za provjeru identiteta*
 
 Ovo će početi imati više smisla kada dođemo do objektnog programiranja,
 ali za sada možemo upotrebu prikazati sljedećim primjerom:
