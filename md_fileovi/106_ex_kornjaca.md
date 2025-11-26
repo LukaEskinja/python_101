@@ -122,8 +122,7 @@ pobjega s ekrana.
 Slika 9: Interaktivan rad s kornjačom
 
 <a href="#fig:turtle_big_poly" data-reference-type="ref"
-data-reference="fig:turtle_big_poly">5</a> vidimo poligon koji je
-pobjegao s ekrana.
+data-reference="fig:turtle_big_poly"></a> 
 
 <figure id="fig:turtle_big_poly" data-latex-placement="ht">
 <img src="../images/turtle_big_poly.png" style="width:75.0%" />
@@ -170,7 +169,7 @@ kliknemo na "start", dobiti ćemo sliku 10.
 Slika 10: Napredni primjeri mogućnosti s kornjačom
 
 <a href="#fig:turtle_examples" data-reference-type="ref"
-data-reference="fig:turtle_examples">6</a>.
+data-reference="fig:turtle_examples"></a>
 
 <figure id="fig:turtle_examples" data-latex-placement="ht">
 <img src="../images/turtle_examples.png" />
@@ -180,6 +179,7 @@ Ipak, ovi primjeri su uglavnom napredni i koriste mnoge koncepte koje
 još nismo objasnili pa u njih nećemo sada dublje ulaziti. Ovdje su
 spomenuti jer prikazuju mogućnost programiranja radi kreativnog procesa
 radije no pragmatične vrijednosti programa.
+
 
 
 
