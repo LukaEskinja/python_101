@@ -161,6 +161,8 @@ sučelja za instalaciju *desktop* aplikacija. Na slici
 [1](#fig:wininstall){reference-type="ref" reference="fig:wininstall"}
 vidimo kako izgleda pokretanje instalacije novijih verzija Pythona.
 
+Slika 1: Instalacija Pythona na Windows OS-u
+
 ![Instalacija Pythona na Windows OS-u](../images/windows_install.png)
 
 Dok klik na \"Install Now\" obavlja većinu posla, ipak je korisno
@@ -209,6 +211,8 @@ koncepata i eksperimentaciju s mogućnostima. IDLE se ponaša kao i većina
 aplikacija s grafičkim sučeljem, odnosno moguće ju je pokrenuti kroz
 *Start menu* ili ekvivalente u drugim operativnim sustavima.
 
+Slika 2: Izvršavanje Python kôda putem sučelja IDLE
+
 ![Izvršavanje Python kôda putem sučelja IDLE](../images/idle.png){#fig:idle
 width="\\textwidth"}
 
@@ -234,6 +238,8 @@ je vidljivo na slici [3](#fig:idle_text){reference-type="ref"
 reference="fig:idle_text"}. Datoteka sadrži tipičan program za prvi
 susret s programiranjem koji ćemo kasnije podrobnije analizirati.
 
+Slika 3: IDLE i pisanje tekstualnih datoteka
+
 ![IDLE i pisanje tekstualnih datoteka](../images/idle_text.png){#fig:idle_text
 width="\\textwidth"}
 
@@ -247,6 +253,8 @@ joj dodijelimo ekstenziju .py. IDLE kao softver je, naime, dosta
 asketske prirode pa neke verzije ne paze na to umjesto nas. Rezultat ove
 radnje je vidljiv na slici [4](#fig:idle_text_run){reference-type="ref"
 reference="fig:idle_text_run"}.
+
+Slika 4: IDLE i rezultat izvršavanja programa
 
 ![IDLE i rezultat izvršavanja programa](../images/idle_text_run.png){#fig:idle_text_run width="\\textwidth"}
 
