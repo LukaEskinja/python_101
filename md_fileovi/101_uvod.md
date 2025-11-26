@@ -213,8 +213,7 @@ aplikacija s grafičkim sučeljem, odnosno moguće ju je pokrenuti kroz
 
 Slika 2: Izvršavanje Python kôda putem sučelja IDLE
 
-![Izvršavanje Python kôda putem sučelja IDLE](../images/idle.png){#fig:idle
-width="\\textwidth"}
+![Izvršavanje Python kôda putem sučelja IDLE](../images/idle.png)
 
 Kada pokrenemo IDLE, dočekati će nas glavno sučelje ovog programa koje
 je prikazano na slici [2](#fig:idle){reference-type="ref"
@@ -240,8 +239,7 @@ susret s programiranjem koji ćemo kasnije podrobnije analizirati.
 
 Slika 3: IDLE i pisanje tekstualnih datoteka
 
-![IDLE i pisanje tekstualnih datoteka](../images/idle_text.png){#fig:idle_text
-width="\\textwidth"}
+![IDLE i pisanje tekstualnih datoteka](../images/idle_text.png)
 
 Novi prozor koji nam se otvorio je jednostavan program za pisanje
 tekstualnih datoteka (poput Notepada i sličnog softvera), a ne komandna
@@ -256,8 +254,7 @@ reference="fig:idle_text_run"}.
 
 Slika 4: IDLE i rezultat izvršavanja programa
 
-![IDLE i rezultat izvršavanja programa](../images/idle_text_run.png){#fig:idle_text_run width="\\textwidth"}
-
+![IDLE i rezultat izvršavanja programa](../images/idle_text_run.png)
 Upravo smo izvršili računalni program! Ovu datoteku nismo morali
 pokretati kroz IDLE, mogli smo je i jednostavno pokrenuti direktno iz
 operativnog sustava. Ipak, prije no što se bacimo na samo programiranje
