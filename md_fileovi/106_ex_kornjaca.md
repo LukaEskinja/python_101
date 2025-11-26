@@ -8,6 +8,8 @@ piksela" ili "skreni lijevo za 45 stupnjeva". Kornjača se najčešće
 prikazuje kao strelica, a vrlo je lako s njom početi eksperimentirati i
 interaktivno.
 
+Slika 5: Interaktivan rad s kornjačom
+
 <figure id="fig:turtle_idle" data-latex-placement="ht">
 <img src="../images/turtle_idle.png" />
 <figcaption>Interaktivan rad s kornjačom</figcaption>
@@ -39,6 +41,8 @@ kvadrat. Pokušajte napisati ovaj program prije no što nastavite čitati
 skriptu!
 
 Najjednostavnije rješenje ovog problema je kako slijedi:
+
+Slika 6: Rezultat programa Kornjača i kvadrat 1
 
 <figure id="fig:turtle_square" data-latex-placement="H">
 <img src="../images/turtle_square.png" style="width:50.0%" />
@@ -81,6 +85,8 @@ poligona. Pogledajmo primjere za trokut i heksagon.
 Kornjača i trokut \# ... n_steps = 3 \# broj koraka koji će kornjača
 napraviti turn_angle = 120 \# stupanj pod kojim se skreće \# ...
 
+Slika 7: Rezultat programa Kornjača i trokut
+
 </div>
 
 <figure id="fig:turtle_triangle" data-latex-placement="H">
@@ -92,6 +98,8 @@ napraviti turn_angle = 120 \# stupanj pod kojim se skreće \# ...
 
 Kornjača i heksagon \# ... n_steps = 6 \# broj koraka koji će kornjača
 napraviti turn_angle = 60 \# stupanj pod kojim se skreće \# ...
+
+Slika 8: Rezultat programa Kornjača i heksagon
 
 </div>
 
@@ -112,7 +120,11 @@ stranica. Ima međutim još jedan problem, unosi su postavljeni tako da
 čim je veći broj stranica, tim je veći i poligon ukoliko sami ne
 promijenimo dužinu stranice. Navedeno je vidljivo i u ovome tekstu u
 razlici u veličini između prikazano trokuta i heksagona, a kako raste
-broj stranica, tako raste i veličina. Na slici
+broj stranica, tako raste i veličina. Na slici 9 vidimo poligon koji je 
+pobjega s ekrana.
+
+Slika 9: Interaktivan rad s kornjačom
+
 <a href="#fig:turtle_big_poly" data-reference-type="ref"
 data-reference="fig:turtle_big_poly">5</a> vidimo poligon koji je
 pobjegao s ekrana.
@@ -158,7 +170,10 @@ instalirali prema uputama iz ove skripte i u komandnoj liniji pokrenemo
 naredbu `python -m turtledemo` pokrenuti će nam se grafičko sučelje koje
 prikazuje napredne primjere i mogućnosti kornjače. Ukoliko, na primjer,
 iz padajućeg izbornika "examples" odaberemo primjer "bytedesign" te
-kliknemo na "start", dobiti ćemo sliku
+kliknemo na "start", dobiti ćemo sliku 10.
+
+Slika 10: Napredni primjeri mogućnosti s kornjačom
+
 <a href="#fig:turtle_examples" data-reference-type="ref"
 data-reference="fig:turtle_examples">6</a>.
 
@@ -171,4 +186,5 @@ Ipak, ovi primjeri su uglavnom napredni i koriste mnoge koncepte koje
 još nismo objasnili pa u njih nećemo sada dublje ulaziti. Ovdje su
 spomenuti jer prikazuju mogućnost programiranja radi kreativnog procesa
 radije no pragmatične vrijednosti programa.
+
 
